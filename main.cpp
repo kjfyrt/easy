@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int x;
     cin >> x;
-    itc_revnbr(x);
+    cout << itc_revnbr(x);
 
 
     return 0;
