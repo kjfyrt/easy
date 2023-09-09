@@ -5,9 +5,9 @@ double itc_fmin(double num, double num2)
 {
     if(num<num2)
     {
-        cout << num << endl;
+        return num;
     }
-    else {
-        cout << num2 << endl;
+    return num2;
+
     }
-}
+
