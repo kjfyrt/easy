@@ -1,7 +1,9 @@
-#ifndef MODULE_H_INCLUDED
-#define MODULE_H_INCLUDED
+#ifndef EASY_H_INCLUDED
+#define EASY_H_INCLUDED
 #include <iostream>
-int itc_revnbr(int num);
+void itc_name(void);
+void itc_fio(void);
 
 
-#endif // MODULE_H_INCLUDED
+
+#endif // EASY_H_INCLUDED
