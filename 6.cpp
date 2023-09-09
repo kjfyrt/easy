@@ -3,11 +3,10 @@
 using namespace std;
 bool itc_iseven(int num){
     if (num%2==0){
-        cout << "TRUE" << endl;;
+        return true;
     }
-    else {
-        cout << "FALSE" << endl;
-    }
+    return false;
+
 
 
 }
