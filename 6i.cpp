@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int c;
     cin >> c;
-    itc_iseven(c);
+    cout << itc_iseven(c);
     return 0;
 
 
