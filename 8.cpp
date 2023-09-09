@@ -5,9 +5,8 @@ int itc_min(int min, int min2)
 {
     if(min<min2)
     {
-        cout << min << endl;
+        return min;
     }
-    else {
-        cout << min2 << endl;
-    }
+    return min2;
+
 }
